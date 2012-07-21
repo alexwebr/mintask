@@ -5,7 +5,7 @@ Simple todo list functionality for Vim.
 
 To Use
 -----
-Just append the code in `mintask` to you `.vimrc` file.
+Just copy the code in `mintask` into your `.vimrc` file.
 
 This is what a mintask todo list can look like:
 
