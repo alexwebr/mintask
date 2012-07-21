@@ -30,7 +30,7 @@ Tutorial
 ---------
 mintask has two kinds of tasks - tasks, and subtasks.
 
-All mintask commands are two characters, and are prefixed with a lowercase `t` (except for `T`, which jumps between all top-level tasks)
+All mintask commands are two characters, and are prefixed with a lowercase `t` (except for `T`, which jumps between all top-level tasks). __NOTE__: This means you lose your `t` and `T` commands (same as "f" but cursor moves to just before found character)
 
 _New_ tasks are created with `tn`. _Sub_ tasks are created by putting your cursor over a task (or subtask) and typing `ts`. Tasks (and subtasks) are automatically marked as incomplete when they have a subtask added to them.
 
