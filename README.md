@@ -32,7 +32,7 @@ mintask has two kinds of tasks - tasks, and subtasks.
 
 All mintask commands are two characters, and are prefixed with a lowercase `t` (except for `T`, which jumps between all top-level tasks)
 
-_New_ tasks are created with `tn`. _Sub_tasks are created by putting your cursor over a task (or subtask) and typing `ts`. Tasks (and subtasks) are automatically marked as incomplete when they have a subtask added to them.
+_New_ tasks are created with `tn`. _Sub_ tasks are created by putting your cursor over a task (or subtask) and typing `ts`. Tasks (and subtasks) are automatically marked as incomplete when they have a subtask added to them.
 
 You can _mark_ one or more tasks (what that means is up to you) by putting your cursor on a task and typing `tm`. To remove a mark, type `tM`
 
